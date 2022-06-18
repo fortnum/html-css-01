@@ -29,6 +29,7 @@ nav a {
   text-align: center;
   text-decoration: none;
   color: #555;
+  background-color: rgb(226, 165, 51);
 }
 
 nav a[aria-current='page'] {
